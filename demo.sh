@@ -1,5 +1,4 @@
 #!/bin/bash
-ssh 'root@172.31.80.74'
 sudo su
 apt-get update
 apt install openjdk-11-jdk -y
