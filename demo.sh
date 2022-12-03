@@ -1,4 +1,6 @@
 #!/bin/bash
 sudo su
 apt-get update
-apt install openjdk-11-jdk -y
+apt install python3
+apt install python
+apt install python-minimal
