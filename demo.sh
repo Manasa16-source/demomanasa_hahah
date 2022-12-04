@@ -1,6 +1,2 @@
-#!/bin/bash
-sudo su
-apt-get update
-apt install python3
-apt install python
-apt install python-minimal
+This is just a test file 
+adding a line on dec 4th 
