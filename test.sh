@@ -1,1 +1,1 @@
-just a test file
+echo "hello world"
